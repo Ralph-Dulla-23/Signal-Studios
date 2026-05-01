@@ -6,3 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Impeccable & Design Tokens
+DESIGN.json
+DESIGN.md
+PRODUCT.md
+.superpowers/
